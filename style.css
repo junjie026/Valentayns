@@ -77,16 +77,16 @@ p {
     font-size: 40px;
 }
 
-/* dog */
+/* Cat */
 
-.dog {
+.cat {
     width: 250px;
     margin: 10px 0;
     transition: width 0.4s ease;
 }
 
-.letter-window.final .dog {
-    width: 200px;
+.letter-window.final .cat {
+    width: 180px;
 }
 
 /* buttons */
